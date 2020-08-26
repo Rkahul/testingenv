@@ -14,4 +14,8 @@ github:
 # own created SecreteKey
 sharedSecret: "testingenv"
 
+secrets:
+  dockerLogin: rahuldhus766
+  dockerPass: Kalyani@1994
+
 
